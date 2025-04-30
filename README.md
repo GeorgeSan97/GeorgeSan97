@@ -28,22 +28,27 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 ### 💻 Lenguajes de programación:
 
 
-En el siguiente contexto mostraré los lenguajes de programación que he utilizado:
+En el siguiente contexto mostraré los lenguajes de programación que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js" />
 </p>
 
 ---
 
-En el siguiente contexto mostraré los motores de Bases de datos que he utilizado:
+### 💾 Motores de Bases de Datos SQL:
+
+En el siguiente contexto mostraré los motores de Bases de datos que he trabajado:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
+
 </p>
 
 ---
