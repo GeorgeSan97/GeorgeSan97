@@ -69,7 +69,8 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 ---
 
 ### 🖥️ Mis herramientas favoritas y tecnologías
-	![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white))
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
