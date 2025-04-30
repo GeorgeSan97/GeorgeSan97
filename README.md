@@ -10,24 +10,25 @@
 
 ---
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLPEsMSQWwrAW5QHJRSRHUoJ8jYDX1I-wpg&s" alt="Imagen de portada" />
-</p>
 
 ### 👨‍💻 Sobre mí:
 
 Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial en la Universidad Técnica de Ambato.
 
-- 🌱 Aprendiendo: JavaScript, C#, SQL
-- 💡 Intereses: Aprender lógica de programación, Diseño e Interactividad de Páginas Web, Manejo de lenguaje SQL en diversos motores de Bases de Datos como SQL Seever, Oracle, PostgreSQL, etc.
-- ⚡ Fun fact: Me divierto con ejercicios prácticos de programación
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLPEsMSQWwrAW5QHJRSRHUoJ8jYDX1I-wpg&s" alt="Imagen de portada" />
+</p>
+
+- 🌱 Aprendiendo: JavaScript, C#, SQL, HTML, CSS, Java
+- 💡 Intereses: Aprender lógica de programación, Diseño e Interactividad de Páginas Web, Manejo de lenguaje SQL en diversos motores de Bases de Datos como SQL Server, Oracle, PostgreSQL, etc.
+- ⚡ Fun fact: Me divierto con ejercicios prácticos de programación para poder perfeccionar mis métodos de programación
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 💻 Lenguajes de programación que he utilizado:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,ts,js,html,css,bootstrap,mysql,postgres,sqlserver,git,github,azure,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,js,c#" />
 </p>
 
 ---
