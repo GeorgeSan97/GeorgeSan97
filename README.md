@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, mi nombre es Jorge Sánchez! 👋</h1>
-<p align="center">Soy estudiante de la Universidad Técnica de Ambato de la FISEI/p>
-<p align="center">Me encuentro estudiando la carrera de Tecnologías de la Información/p>
+<p align="center">Soy estudiante de la Universidad Técnica de Ambato de la FISEI</p>
+<p align="center">Me encuentro estudiando la carrera de Tecnologías de la Información</p>
 
   
 <p align="center">
