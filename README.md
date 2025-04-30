@@ -76,6 +76,7 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 ---
 
 ### 🖥️ Mis herramientas favoritas y tecnologías
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
@@ -83,7 +84,16 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+### 🎵 Mi canción favorita:
+
+Ahora les presentaré mi canción favorita:
+
+[![Sweet Child O' Mine - Guns N' Roses](https://img.youtube.com/vi/1w7OgIMMRc4/hqdefault.jpg)](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+
 ---
 
 ### 📫 Contacto
