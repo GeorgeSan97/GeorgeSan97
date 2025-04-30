@@ -37,11 +37,9 @@ En el siguiente contexto mostraré los lenguajes de programación que he trabaja
 
 ### 💾 Motores de Bases de Datos SQL:
 
-En el siguiente contexto mostraré los motores de Bases de datos que he trabajado:
+En el siguiente contexto mostraré los motores de Bases de datos SQL que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  
-
 </p>
 
 Otros Motores de Bases de Datos: 
@@ -51,6 +49,14 @@ Otros Motores de Bases de Datos:
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
+</p>
+
+---
+### 💽 Motores de Bases de Datos NoSQL:
+
+En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he trabajado:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,firebase" />
 </p>
 
 ---
