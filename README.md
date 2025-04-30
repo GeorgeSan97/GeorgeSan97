@@ -25,13 +25,16 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 
 ---
 
-### 💻 Lenguajes de programación que he utilizado:
+### 💻 Lenguajes de programación:
 
+
+En el siguiente lado mostraré los lenguajes de programación que he utilizado:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,js,c#" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,js,java,html,css" />
 </p>
 
 ---
+,mysql,postgres,sqlserver
 
 ### 📊 GitHub Stats
 
