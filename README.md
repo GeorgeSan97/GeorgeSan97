@@ -60,6 +60,12 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 </p>
 
 ---
+### ⚙️ Frameworks:
+En el siguiente contexto mostraré los frameworks con los que he trabajado:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue" />
+</p>
+---
 
 ### 📊 GitHub Estatus
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeSan97&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
@@ -69,7 +75,10 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 ---
 
 ### 🖥️ Mis herramientas favoritas y tecnologías
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white))
+![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
