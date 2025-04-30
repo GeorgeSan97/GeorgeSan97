@@ -63,11 +63,11 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 
 ### 📊 GitHub Estatus
 
-[![GeorgeSan97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeSan97&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GeorgeSan97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeSan97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSan97&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSan97&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSan97)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSan97&theme=dark)](https://git.io/streak-stats)
 
 
 ---
