@@ -1,6 +1,8 @@
-<h1 align="center">¡Hola, mi nombre es Jorge ! 👋</h1>
-<p align="center">Desarrollador Full Stack | Apasionado por la tecnología | En constante aprendizaje</p>
+<h1 align="center">¡Hola, mi nombre es Jorge Sánchez! 👋</h1>
+<p align="center">Soy estudiante de la Universidad Técnica de Ambato de la FISEI/p>
+<p align="center">Me encuentro cursando la carrera de Tecnologías de lla información/p>
 
+  
 <p align="center">
   <a href="https://tuportafolio.com">🌐 Portafolio</a> •
   <a href="https://linkedin.com/in/tuusuario">LinkedIn</a> •
