@@ -66,6 +66,10 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeSan97&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+---
+
+### 🖥️ Mis herramientas favoritas y tecnologías
+	![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
 
