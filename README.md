@@ -77,22 +77,23 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 
 ### 🖥️ Mis herramientas favoritas y tecnologías
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white))
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ---
 
 ### 📫 Contacto
 
-- 💼 LinkedIn: [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 📧 Email: [tuemail@ejemplo.com]
-- 🌐 Web personal o portafolio: [https://tuportafolio.com](https://tuportafolio.com)
+- 🏠 Ubicación: Ecuador
+- 📧 Email: jsanchez9900@uta.edu.ec
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 💙 ¡Estoy abierto a colaboraciones y nuevas oportunidades!
+  Muchas gracias por visitar mi perfil 😎
 </p>
 
