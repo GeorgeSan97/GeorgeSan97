@@ -68,8 +68,9 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSan97&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GeorgeSan97&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSan97&layout=compact&theme=tokyonight" alt="Top Languages" />
