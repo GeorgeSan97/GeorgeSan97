@@ -30,11 +30,7 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 
 En el siguiente contexto mostraré los lenguajes de programación que he utilizado:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,csharp,html,css,js" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,js,java,html,css,csharp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,csharp" />
 </p>
 
 
