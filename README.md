@@ -40,15 +40,15 @@ En el siguiente contexto mostraré los lenguajes de programación que he trabaja
 En el siguiente contexto mostraré los motores de Bases de datos que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
+
 </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
-
 </p>
 
 ---
