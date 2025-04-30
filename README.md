@@ -28,9 +28,9 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 ### 💻 Lenguajes de programación:
 
 
-En el siguiente lado mostraré los lenguajes de programación que he utilizado:
+En el siguiente contexto mostraré los lenguajes de programación que he utilizado:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp, java, csharp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,csharp,html,css,js" />
 </p>
 
 ---
