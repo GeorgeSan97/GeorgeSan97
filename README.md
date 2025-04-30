@@ -30,7 +30,7 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 
 En el siguiente contexto mostraré los lenguajes de programación que he trabajado:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,nodejs" />
 </p>
 
 ---
@@ -40,9 +40,16 @@ En el siguiente contexto mostraré los lenguajes de programación que he trabaja
 En el siguiente contexto mostraré los motores de Bases de datos que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_t2mEhTzopRuQ1tDtB3q_XbJpCvSy9Kr2Qw&s" height="40" alt="SQL Server" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
+  
 
+</p>
+
+Otros Motores de Bases de Datos: 
+
+<p align="center">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_t2mEhTzopRuQ1tDtB3q_XbJpCvSy9Kr2Qw&s" height="40" alt="SQL Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
 </p>
 
 ---
