@@ -33,6 +33,11 @@ En el siguiente contexto mostraré los lenguajes de programación que he utiliza
   <img src="https://skillicons.dev/icons?i=c,cpp,java,csharp,html,css,js" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,js,java,html,css,csharp" />
+</p>
+
+
 ---
 ,mysql,postgres,sqlserver
 angular,nodejs,
