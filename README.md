@@ -30,7 +30,7 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 
 En el siguiente contexto mostraré los lenguajes de programación que he trabajado:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,nodejs,py" />
 </p>
 
 ---
@@ -62,10 +62,9 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 ---
 
 ### 📊 GitHub Estatus
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-[![GeorgeSan97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeSan97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSan97&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSan97&theme=dark)](https://git.io/streak-stats)
 
