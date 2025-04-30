@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mí:
 
-Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial.
+Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial de la Universidad Técnica de Ambato.
 
 - 🔭 Actualmente trabajando en: [Proyecto o empresa actual]
 - 🌱 Aprendiendo: [Tecnología o herramienta actual, ej. NestJS, Azure, Docker]
