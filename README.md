@@ -47,15 +47,13 @@ En el siguiente contexto mostraré los motores de Bases de datos que he trabajad
 Otros Motores de Bases de Datos: 
 
 <p align="center">
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_t2mEhTzopRuQ1tDtB3q_XbJpCvSy9Kr2Qw&s" height="40" alt="SQL Server" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_t2mEhTzopRuQ1tDtB3q_XbJpCvSy9Kr2Qw&s" height="90" alt="SQL Server" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="oracle" />
 </p>
 
 ---
-,mysql,postgres,sqlserver
-angular,nodejs,
-### 📊 GitHub Stats
+
+### 📊 GitHub Estatus
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" height="180"/>
