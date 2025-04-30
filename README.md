@@ -1,19 +1,18 @@
 <h1 align="center">¡Hola, mi nombre es Jorge Sánchez! 👋</h1>
 <p align="center">Soy estudiante de la Universidad Técnica de Ambato de la FISEI/p>
-<p align="center">Me encuentro cursando la carrera de Tecnologías de lla información/p>
+<p align="center">Me encuentro estudiando la carrera de Tecnologías de la Información/p>
 
   
 <p align="center">
   <a href="https://www.facebook.com/GEORGE.SANCHEZ.LARA"> Facebook</a> •
-  <a href="https://www.instagram.com/george_san97/">Instagram</a> •
-  <a></a>
+  <a href="https://www.instagram.com/george_san97/">Instagram</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Sobre mí:
 
-Soy un desarrollador Full Stack con experiencia en diseño, desarrollo e implementación de aplicaciones web y APIs robustas. Me especializo en tecnologías modernas como Angular, Node.js y SQL Server. Disfruto enfrentando desafíos complejos y aprendiendo constantemente nuevas herramientas que me ayuden a crecer como profesional.
+Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial.
 
 - 🔭 Actualmente trabajando en: [Proyecto o empresa actual]
 - 🌱 Aprendiendo: [Tecnología o herramienta actual, ej. NestJS, Azure, Docker]
