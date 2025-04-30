@@ -4,9 +4,9 @@
 
   
 <p align="center">
-  <a href="https://tuportafolio.com">🌐 Portafolio</a> •
-  <a href="https://linkedin.com/in/tuusuario">LinkedIn</a> •
-  <a href="mailto:tuemail@ejemplo.com">Email</a>
+  <a href="https://www.facebook.com/GEORGE.SANCHEZ.LARA"> Facebook</a> •
+  <a href="https://www.instagram.com/george_san97/">Instagram</a> •
+  <a></a>
 </p>
 
 ---
