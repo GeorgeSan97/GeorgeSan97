@@ -66,8 +66,7 @@ En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he tr
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSan97&theme=dark)](https://git.io/streak-stats)
-
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
 
 ---
 
