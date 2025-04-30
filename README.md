@@ -65,6 +65,7 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,vue" />
 </p>
+
 ---
 
 ### 📊 GitHub Estatus
