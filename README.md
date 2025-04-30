@@ -12,12 +12,11 @@
 
 ### 👨‍💻 Sobre mí:
 
-Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial de la Universidad Técnica de Ambato.
+Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial en la Universidad Técnica de Ambato.
 
-- 🔭 Actualmente trabajando en: [Proyecto o empresa actual]
-- 🌱 Aprendiendo: [Tecnología o herramienta actual, ej. NestJS, Azure, Docker]
-- 💡 Intereses: Arquitectura de software, DevOps, buenas prácticas, automatización
-- ⚡ Fun fact: Me encanta resolver problemas lógicos y construir soluciones limpias y eficientes
+- 🌱 Aprendiendo: JavaScript, C#, SQL
+- 💡 Intereses: Aprender lógica de programación, Diseño e Interactividad de Páginas Web, Manejo de lenguaje SQL en diversos motores de Bases de Datos como SQL Seever, Oracle, PostgreSQL, etc.
+- ⚡ Fun fact: Me divierto con ejercicios prácticos de programación
 
 ---
 
