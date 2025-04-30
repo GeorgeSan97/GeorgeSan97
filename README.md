@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
+<h1 align="center">¡Hola, mi nombre es Jorge ! 👋</h1>
 <p align="center">Desarrollador Full Stack | Apasionado por la tecnología | En constante aprendizaje</p>
 
 <p align="center">
