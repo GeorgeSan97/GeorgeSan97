@@ -16,7 +16,7 @@
 Soy un estudiante de la carrera de Tecnologías de la Información de la Facultad de Ingeniería en Sistemas Electrónica e Industrial en la Universidad Técnica de Ambato.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLPEsMSQWwrAW5QHJRSRHUoJ8jYDX1I-wpg&s" alt="Imagen de portada" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLPEsMSQWwrAW5QHJRSRHUoJ8jYDX1I-wpg&s" alt="Logo FISEI" />
 </p>
 
 - 🌱 Aprendiendo: JavaScript, C#, SQL, HTML, CSS, Java
