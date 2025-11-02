@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B5BBD,100:130F40&height=180&section=header&text=¡Hola!%20mi%20nombre%20es%20Jorge%20Sánchez%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h1 align="center">¡Hola, mi nombre es Jorge Sánchez! 👋</h1>
+
 <p align="center">Soy estudiante de la Universidad Técnica de Ambato de la FISEI</p>
 <p align="center">Me encuentro estudiando la carrera de Tecnologías de la Información</p>
 
