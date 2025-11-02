@@ -30,7 +30,7 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 ---
 
 ### 💻 Lenguajes de programación:
-
+En el siguiente contexto mostraré los lenguajes de programación que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,nodejs,py" />
 </p>
@@ -38,7 +38,7 @@ Soy un estudiante de la carrera de Tecnologías de la Información de la Faculta
 ---
 
 ### 💾 Motores de Bases de Datos SQL:
-
+En el siguiente contexto mostraré los motores de Bases de datos SQL que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
@@ -55,7 +55,7 @@ Otros Motores de Bases de Datos:
 ---
 
 ### 💽 Motores de Bases de Datos NoSQL:
-
+En el siguiente contexto mostraré los motores de Bases de datos NoSQL que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongo,firebase" />
 </p>
@@ -63,7 +63,7 @@ Otros Motores de Bases de Datos:
 ---
 
 ### ⚙️ Frameworks:
-
+En el siguiente contexto mostraré los frameworks con los que he trabajado:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,vue" />
 </p>
@@ -100,7 +100,7 @@ Otros Motores de Bases de Datos:
 ---
 
 ### 🎵 Mi canción favorita:
-
+Ahora les presentaré mi canción favorita:
 [![Sweet Child O' Mine - Guns N' Roses](https://img.youtube.com/vi/1w7OgIMMRc4/hqdefault.jpg)](https://www.youtube.com/watch?v=1w7OgIMMRc4)
 
 ---
