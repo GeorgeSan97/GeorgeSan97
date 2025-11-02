@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Ejecuta cada 24 horas (puedes cambiar la hora si deseas)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Clona tu repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Genera la animación
+      - name: Generate the snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: GeorgeSan97  # 👈 tu nombre de usuario de GitHub
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # 3️⃣ Sube el resultado a tu repositorio
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
