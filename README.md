@@ -98,7 +98,7 @@ Ahora les presentaré mi canción favorita:
 
 ### 📫 Contacto
 
-- 🏠 Ubicación: Ambato - Ecuador
+- 🏠 Ubicación: Tungurahua - Ecuador
 - 📧 Email: jsanchez9900@uta.edu.ec
 
 ---
