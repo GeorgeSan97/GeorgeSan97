@@ -89,14 +89,6 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 
 ---
 
-### 🐍 Animación de contribuciones
-
-<p align="center">
-  <!-- Usa la URL RAW para que la imagen SVG se renderice correctamente en el README -->
-  <img src="https://raw.githubusercontent.com/GeorgeSan97/output/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> Nota: Si la imagen no aparece, ejecuta el workflow "Generate Snake" desde la pestaña Actions para que genere el archivo SVG y lo suba a la rama `output`. También confirma la ruta en la rama `output` (debe existir: dist/github-contribution-grid-snake.svg).
 
 ---
 
