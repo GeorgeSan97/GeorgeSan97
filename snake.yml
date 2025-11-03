@@ -1,8 +1,11 @@
 name: Generate Snake
 
+# Permisos necesarios para que GITHUB_TOKEN pueda hacer push
+permissions:
+  contents: write
+
 on:
   schedule:
-    # Ejecuta cada 24 horas (puedes cambiar la hora si deseas)
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -14,22 +17,63 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Clona tu repositorio
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      # 2️⃣ Genera la animación
       - name: Generate the snake
         uses: Platane/snk@v3
         with:
-          github_user_name: GeorgeSan97  # 👈 tu nombre de usuario de GitHub
+          github_user_name: GeorgeSan97
           outputs: dist/github-contribution-grid-snake.svg
 
-      # 3️⃣ Sube el resultado a tu repositorio
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Mostrar contenido de dist (debug)
+        run: |
+          echo "PWD: $(pwd)"
+          echo "Files in dist:"
+          ls -la dist || true
+
+      - name: Configurar git y preparar commit
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Preferimos GITHUB_TOKEN; si necesitas un PAT por fork o por permisos especiales,
+          # define secret REPO_PUSH_TOKEN y se usará en su lugar.
+          TOKEN: ${{ secrets.REPO_PUSH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Trabajar en detached HEAD para empujar HEAD:output sin tocar main
+          git switch --detach || git checkout --detach
+
+          # Copiamos los archivos de dist al repo temporal (la acción original copiaba a /tmp)
+          # Si prefieres commitear solo dist dentro del repo, puedes ajustar la ruta.
+          # Aquí añadimos dist tal cual al índice.
+          git add -A dist || true
+
+          if git diff --staged --quiet; then
+            echo "No hay cambios en dist para commitear."
+          else
+            git commit -m "Deploy dist [ci skip]" || true
+          fi
+
+          echo "Remotos antes:"
+          git remote -v || true
+
+          # Forzamos la URL remota a usar el token seleccionado (PAT si existe, sino GITHUB_TOKEN)
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+          echo "Remote origin set to use token."
+
+          echo "Remoto actual:"
+          git remote -v
+
+          # Hacemos push a la rama output creando/actualizando la rama remota.
+          # Si la rama output tiene protección que impide force, quita --force.
+          echo "Pushing to output branch..."
+          git push --force origin HEAD:output
+
+      - name: Confirmación final (debug)
+        run: |
+          echo "Push step finalizado (si no hubo error). Comprueba la rama output en el repo."
