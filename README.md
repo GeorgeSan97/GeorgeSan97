@@ -28,7 +28,7 @@ Soy estudiante de la carrera de Tecnologías de la Información de la Facultad d
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.gif)
+
 
 ---
 
