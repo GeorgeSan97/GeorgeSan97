@@ -77,15 +77,10 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 
 ### 📊 GitHub Status
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeSan97&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeSan97&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top languages" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeSan97&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeSan97&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
 ### 🖥️ Mis herramientas favoritas y tecnologías
 
 <p align="center">
