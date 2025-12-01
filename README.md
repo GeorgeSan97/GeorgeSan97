@@ -27,7 +27,7 @@ Soy estudiante de la carrera de Tecnologías de la Información de la Facultad d
 - ⚡ Fun fact: Me divierto con ejercicios prácticos de programación para perfeccionar mis métodos.
 
 ---
-<img src="https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width:100%;height:auto;"/>
+
 ![snake gif](https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.gif)
 
 ---
