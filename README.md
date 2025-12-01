@@ -76,6 +76,9 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
 </p>
 
 ### 📊 GitHub Status
+<p align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GeorgeSan97&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"/>
+</p>
 
 
 <p align="center">
