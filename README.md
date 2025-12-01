@@ -28,11 +28,6 @@ Soy estudiante de la carrera de Tecnologías de la Información de la Facultad d
 
 ---
 
- <img  src="https://github.com/GeorgeSan97/GeorgeSan97/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-
----
-
 ### 💻 Lenguajes de programación
 
 En el siguiente contexto mostraré los lenguajes de programación que he trabajado:
