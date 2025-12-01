@@ -1,4 +1,4 @@
-<!-- Encabezado tipo Clay Aldás -->
+<!-- Encabezado tipo Jorge Sánchez -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B5BBD,100:130F40&height=180&section=header&text=¡Hola!%20mi%20nombre%20es%20Jorge%20Sánchez%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" alt="Encabezado" />
@@ -26,6 +26,8 @@ Soy estudiante de la carrera de Tecnologías de la Información de la Facultad d
 - 💡 Intereses: Lógica de programación, diseño e interactividad web, manejo de SQL en motores como SQL Server, Oracle, PostgreSQL, etc.  
 - ⚡ Fun fact: Me divierto con ejercicios prácticos de programación para perfeccionar mis métodos.
 
+---
+![snake gif](https://github.com/GeorgeSan97/GeorgeSan97/blob/output/github-contribution-grid-snake.gif)
 ---
 
 ### 💻 Lenguajes de programación
