@@ -87,7 +87,7 @@ En el siguiente contexto mostraré los frameworks con los que he trabajado:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeSan97&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top languages" />
 </p>
 
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeSan97&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 ---
 
 
