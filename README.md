@@ -14,7 +14,8 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.gif?cache=3" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.svg?cache=3" alt="Snake Game"/>
+  
 
 </p>
 
