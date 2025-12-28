@@ -16,10 +16,10 @@
 
 ### Juego Serpiente 🐍 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/snake-custom.gif?cache=1" alt="Snake Animation"/>
+  
   
 
-  
+  <img src="https://raw.githubusercontent.com/GeorgeSan97/GeorgeSan97/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 
 </p>
 
