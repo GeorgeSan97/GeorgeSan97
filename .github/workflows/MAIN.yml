@@ -4,7 +4,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Ejecuta cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -24,22 +23,8 @@ jobs:
         with:
           github_user_name: GeorgeSan97
 
-          # Fondo TRANSPARENTE
-          background_color: transparent
-
-          # Colores de los puntos (estilo GitHub, buen contraste)
-          color_dots: |
-            #161b22,
-            #0e4429,
-            #006d32,
-            #26a641,
-            #39d353
-
-          # Color de la serpiente (alta visibilidad)
-          color_snake: "#ff7a18"
-
-          # Borde de la serpiente para más contraste
-          color_snake_outline: "#000000"
+          # 🎨 TEMA SOPORTADO (aquí SÍ cambian los colores)
+          theme: github-dark
 
           # Archivos de salida
           outputs: |
