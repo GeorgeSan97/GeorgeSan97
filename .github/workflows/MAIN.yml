@@ -1,3 +1,5 @@
+# GitHub Action: Generate Snake Contribution Graph
+
 name: Generate Snake
 
 on:
@@ -13,15 +15,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
+
+          # 🎨 TEMA SOPORTADO (aquí SÍ cambian los colores)
+          theme: github-dark
+
+          # Archivos de salida
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-dimmed
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark-dimmed
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
