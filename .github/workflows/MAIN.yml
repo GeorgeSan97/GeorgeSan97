@@ -23,9 +23,8 @@ jobs:
         with:
           github_user_name: GeorgeSan97
 
-          # 👇 AQUÍ SÍ se pasan los colores (vía CLI args)
+          # 🎨 COLORES SOPORTADOS (vía args)
           args: |
-            --background-color transparent
             --color-dots "#161b22,#0e4429,#006d32,#26a641,#39d353"
             --color-snake "#ff7a18"
             --color-snake-outline "#000000"
