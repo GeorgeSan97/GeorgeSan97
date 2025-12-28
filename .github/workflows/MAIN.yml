@@ -18,16 +18,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake (svg + gif)
         uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
 
-          # 🐍 Configuración avanzada del Snake
+          # 🐍 Mejora visual y duración
           snake_size: 12
           gif_speed: 0.6
 
           outputs: |
+            dist/github-contribution-grid-snake.svg
+            ?color_snake=%23ff7a18
+            &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+
             dist/github-contribution-grid-snake.gif
             ?color_snake=%23ff7a18
             &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
@@ -40,3 +44,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
