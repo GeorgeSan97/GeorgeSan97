@@ -22,11 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
-
-          # 🎨 TEMA SOPORTADO (aquí SÍ cambian los colores)
-          theme: github-dark
-
-          # Archivos de salida
+          args: --background-color transparent --color-dots "#161b22,#0e4429,#006d32,#26a641,#39d353" --color-snake "#ff7a18" --color-snake-outline "#000000"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
