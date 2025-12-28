@@ -18,15 +18,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake (svg + gif)
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
+
+          # 🐍 Configuración avanzada del Snake
+          snake_size: 12
+          gif_speed: 0.6
+
           outputs: |
-            # SVG (transparente por defecto): serpiente naranja
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff7a18&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
-            # GIF (fondo transparente)
-            dist/github-contribution-grid-snake.gif?color_snake=%23ff7a18&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353&color_background=transparent
+            dist/github-contribution-grid-snake.gif
+            ?color_snake=%23ff7a18
+            &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            &color_background=transparent
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
