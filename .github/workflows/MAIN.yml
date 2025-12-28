@@ -22,16 +22,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
-
-          # 🐍 Mejora visual y duración
-          snake_size: 12
-          gif_speed: 0.6
-
           outputs: |
+            # SVG – transparente y naranja
             dist/github-contribution-grid-snake.svg
             ?color_snake=%23ff7a18
             &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
 
+            # GIF – fondo transparente
             dist/github-contribution-grid-snake.gif
             ?color_snake=%23ff7a18
             &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
@@ -44,4 +41,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
