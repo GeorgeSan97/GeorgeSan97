@@ -1,39 +1,44 @@
-name: Generate Custom Snake
+# GitHub Action: Generate Snake Contribution Graph
+
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate custom snake animation
-        uses: Platane/snk@master
+      # ✅ Crear dist para evitar el error
+      - name: Prepare dist folder
+        run: mkdir -p dist
+
+      - name: Generate Snake (svg + gif)
+        uses: Platane/snk@v3
         with:
           github_user_name: GeorgeSan97
           outputs: |
+            # SVG (RECOMENDADO: estilos sí funcionan)
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-        env:
-          SNAKE_COLOR: "#ff7a18"
-          BG_COLOR: "transparent"
-          DOT_COLOR_0: "#161b22"
-          DOT_COLOR_1: "#0e4429"
-          DOT_COLOR_2: "#006d32"
-          DOT_COLOR_3: "#26a641"
-          DOT_COLOR_4: "#39d353"
-          GIF_DELAY: "8"
+            ?color_snake=%23ff7a18
+            &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
 
-      - name: Deploy
+            # GIF (limitado por snk@v3)
+            dist/github-contribution-grid-snake.gif
+            ?color_snake=%23ff7a18
+            &color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            &color_background=transparent
+
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
